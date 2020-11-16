@@ -29,11 +29,5 @@ Installation & configuration:
 
 ---------------------------------
 
-Need to submit bugs? Feature requests? Just want to comment?
-topi.tuulensuu@student.hamk.fi
-
-You can also keep tabs on me through my website:
-http://morphling.dotgeek.org/
-
 This application is served 'AS-IS' without any warranties, I`m not responsible for your data if it gets corrupted nor responsible for any damages and by downloading this repo or using my code you understand this.
 You can freely modify and redistribute this code
